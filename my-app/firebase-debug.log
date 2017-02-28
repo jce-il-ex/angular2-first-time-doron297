@@ -1,0 +1,24 @@
+[debug] ----------------------------------------------------------------------
+[debug] Command:      C:\Program Files\nodejs\node.exe C:\Users\Doron\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase init
+[debug] CLI Version:  3.4.0
+[debug] Platform:     win32
+[debug] Node Version: v7.3.0
+[debug] Time:         Tue Feb 28 2017 09:12:32 GMT+0200 (שעון רגיל ירושלים)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[debug] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase"]
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\hndasat_tochna\ex1\angular2-first-time-doron297\my-app
+
+Before we get started, keep in mind:
+
+  * You are currently outside your home directory
+
